@@ -2,7 +2,8 @@
 
 Basic Spring Security in-memory authentication
 
-![alt text](authentication.png "default")
+![authentication](authentication.PNG "default")
+
 username: user
 password: secret123
 
