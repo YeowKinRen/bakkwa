@@ -1,13 +1,14 @@
 # securing-web
 
 Basic Spring Security in-memory authentication
-![welcome](welcome.PNG "welcome")
-![login](login.PNG "login")
-![hello](hello.PNG "hello")
+
+![welcome](welcome.PNG "welcome")<br />
+![login](login.PNG "login")<br />
+![hello](hello.PNG "hello")<br />
 <!-- ![authentication](authentication.PNG "default") -->
 
-- username: user
-- password: secret123
+username: user<br />
+password: secret123<br />
 
 Notes
 --------
@@ -24,9 +25,9 @@ Notes
 
 - Allows for easily building in memory authentication, LDAP authentication, JDBC based authentication, adding UserDetailsService, and adding AuthenticationProvider's.
 
-[HTTPSecurity vs WebSecurity](https://ravthiru.medium.com/springboot-security-configuration-using-httpsecurity-vs-websecurity-1a7ec6a23273)
-[Configure](https://stackoverflow.com/questions/22998731/httpsecurity-websecurity-and-authenticationmanagerbuilder#:~:text=General%20use%20of,passwordEncoder(new%20BCryptPasswordEncoder())%3B%0A%20%20%20%20%20%7D)
-[Spring Security](https://boudhayan-dev.medium.com/demystifying-spring-security-setup-e0491acc7df7)
+[HTTPSecurity vs WebSecurity](https://ravthiru.medium.com/springboot-security-configuration-using-httpsecurity-vs-websecurity-1a7ec6a23273)<br />
+[Configure](https://stackoverflow.com/questions/22998731/httpsecurity-websecurity-and-authenticationmanagerbuilder#:~:text=General%20use%20of,passwordEncoder(new%20BCryptPasswordEncoder())%3B%0A%20%20%20%20%20%7D)<br />
+[Spring Security](https://boudhayan-dev.medium.com/demystifying-spring-security-setup-e0491acc7df7)<br />
 
 Resource
 --------
